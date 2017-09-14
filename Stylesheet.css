@@ -1,11 +1,39 @@
-#page1{ background-color: powderblue;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>StyleSheet</title>
+</head>
+
+<body>
+
+#Carter_Header1{ text-align: center;
 }
-#Carter_Header1{ text-align: center;}
+
+#Carter_Header1{text-align: center;}
+
+
 #Div1{width: 280px;
 padding: 10px;
 border: 20px solid gray;
 margin: 0;
 float:left;
+text-align: center;
+}
+
+#page1{ background-color: powderblue;
+}
+
+
+
+#Firstpar{
+text-align: center;
+
+
+}
+
+#Aboutme{
+Font-size: 25px;
 }
 
 #Div2{width: 280px;
@@ -13,10 +41,12 @@ padding: 10px;
 border: 20px solid gray;
 margin: 0;
 float: right;
+text-align: center;
 }
 
 #page2{background-color:powderblue;
 }
+
 #Div3{
 background-color: lightgray;
 width: 80%;
@@ -28,4 +58,10 @@ border: 50px;}
 #Resume{ 
 Text-align: center;
 font-size: 25px;
+background-color: gray;
+padding: 20px;
+border: 10px;
+margin: 10px auto;
+width: 45%;
 }
+</body>
