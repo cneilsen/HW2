@@ -1,0 +1,31 @@
+#page1{ background-color: powderblue;
+}
+#Carter_Header1{ text-align: center;}
+#Div1{width: 280px;
+padding: 10px;
+border: 20px solid gray;
+margin: 0;
+float:left;
+}
+
+#Div2{width: 280px;
+padding: 10px;
+border: 20px solid gray;
+margin: 0;
+float: right;
+}
+
+#page2{background-color:powderblue;
+}
+#Div3{
+background-color: lightgray;
+width: 80%;
+margin: 10px auto;
+text-align:left;
+padding: 20px;
+border: 50px;}
+
+#Resume{ 
+Text-align: center;
+font-size: 25px;
+}
